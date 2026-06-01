@@ -21,7 +21,7 @@
 完成本讲义，你将能够：
 
 1. 把群体神经活动写成 $\mathbf{r}(t)\in\mathbb{R}^N$，并用"状态空间轨迹"思考
-2. 用点积/余弦相似度解释"神经匹配""模板响应""去相���"
+2. 用点积/余弦相似度解释"神经匹配""模板响应""去相关"
 3. 用矩阵解释跨脑区投射与层间变换，并理解行列式（体积缩放）与特征值（动力学稳定性）
 4. 把傅立叶变换理解为"坐标系变换"：时域基 → 频域基；理解欧拉公式的"旋转含义"
 5. 面对非平稳神经信号，理解 STFT 的窗长权衡，并用小波实现多分辨率分析
@@ -53,6 +53,11 @@
 **点击下方按钮直接在浏览器中打开并运行讲义：**
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vincent-B-Faust/From-Vectors-to-Neural-Manifolds/blob/main/20260121%E4%BB%8E%E5%90%91%E9%87%8F%E5%88%B0%E7%A5%9E%E7%BB%8F%E6%B5%81%E5%BD%A2%E8%AE%B2%E4%B9%89.ipynb)
+
+**或直接访问链接：**
+```
+https://colab.research.google.com/github/Vincent-B-Faust/From-Vectors-to-Neural-Manifolds/blob/main/20260121%E4%BB%8E%E5%90%91%E9%87%8F%E5%88%B0%E7%A5%9E%E7%BB%8F%E6%B5%81%E5%BD%A2%E8%AE%B2%E4%B9%89.ipynb
+```
 
 **优点：**
 - ✅ 无需安装任何软件
@@ -169,6 +174,11 @@ Upon completing this lecture, you will be able to:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vincent-B-Faust/From-Vectors-to-Neural-Manifolds/blob/main/20260121%E4%BB%8E%E5%90%91%E9%87%8F%E5%88%B0%E7%A5%9E%E7%BB%8F%E6%B5%81%E5%BD%A2%E8%AE%B2%E4%B9%89.ipynb)
 
+**Or access directly via link:**
+```
+https://colab.research.google.com/github/Vincent-B-Faust/From-Vectors-to-Neural-Manifolds/blob/main/20260121%E4%BB%8E%E5%90%91%E9%87%8F%E5%88%B0%E7%A5%9E%E7%BB%8F%E6%B5%81%E5%BD%A2%E8%AE%B2%E4%B9%89.ipynb
+```
+
 **Advantages:**
 - ✅ No software installation required
 - ✅ Free access to GPU/TPU
@@ -235,6 +245,7 @@ We welcome suggestions, bug reports, and improvements:
 ## 📄 License | 许可证
 
 This lecture is freely available for use, modification, and sharing.
+
 本讲义可自由使用、修改和分享。
 
 ---
