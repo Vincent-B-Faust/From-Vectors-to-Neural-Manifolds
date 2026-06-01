@@ -12,7 +12,17 @@
 
 这门讲义的目标就是让你成为**不过度外推的神经科学家**。我们不仅要用数据拟合曲线，还要理解数据背后的**几何结构**。
 
-### 🤔 从数据到流形
+### 🤔 不信任线性回归
+
+![Linear Regression - Rextor the Dog Bearer](https://imgs.xkcd.com/comics/linear_regression.png)
+
+*漫画出处：[xkcd #1725](https://xkcd.com/1725/)*
+
+"我不相信线性回归，当从散点图猜测关联方向比寻找新星座还难的时候。" 
+
+这正是我们为什么要学**流形假设**——有时候，看似随机的数据实际上隐藏着低维的、有意义的结构。我们的工作是找到这些结构。
+
+### 📊 从数据到流形
 
 ![Curve-Fitting Methods](https://imgs.xkcd.com/comics/curve_fitting.png)
 
@@ -280,5 +290,7 @@ This lecture is freely available for use, modification, and sharing.
 
 ## Credits | 致谢
 
-- XKCD Comics: [#1725 Extrapolating](https://xkcd.com/1725/) and [#2048 Curve Fitting](https://xkcd.com/2048/)
+- XKCD Comics: 
+  - [#1725 Extrapolating](https://xkcd.com/1725/)
+  - [#2048 Curve Fitting](https://xkcd.com/2048/)
 - These comics perfectly illustrate why understanding underlying geometric structures (manifolds) is more important than blindly fitting curves to data!
