@@ -202,11 +202,11 @@ Upon completing this lecture, you will be able to:
 
 **Click the button below to open and run the lecture directly in your browser:**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vincent-B-Faust/From-Vectors-to-Neural-Manifolds/blob/main/20260121%E4%BB%8E%E5%90%91%E9%87%8F%E5%88%B0%E7%A5%9E%E7%BB%8F%E6%B5%81%E5%BD%A2%E8%AE%B2%E4%B9%89.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vincent-B-Faust/From-Vectors-to-Neural-Manifolds/blob/main/From-Vectors-to-Neural-Manifolds-English.ipynb)
 
 **Or access directly via link:**
 ```
-https://colab.research.google.com/github/Vincent-B-Faust/From-Vectors-to-Neural-Manifolds/blob/main/20260121%E4%BB%8E%E5%90%91%E9%87%8F%E5%88%B0%E7%A5%9E%E7%BB%8F%E6%B5%81%E5%BD%A2%E8%AE%B2%E4%B9%89.ipynb
+https://colab.research.google.com/github/Vincent-B-Faust/From-Vectors-to-Neural-Manifolds/blob/main/From-Vectors-to-Neural-Manifolds-English.ipynb
 ```
 
 **Advantages:**
@@ -230,7 +230,7 @@ pip install numpy matplotlib scipy pywavelets scikit-learn jupyter
 
 3. Launch Jupyter:
 ```bash
-jupyter notebook "20260121从向量到神经流形讲义.ipynb"
+jupyter notebook "From-Vectors-to-Neural-Manifolds-English.ipynb"
 ```
 
 ### 📦 Requirements
@@ -285,6 +285,18 @@ This lecture is freely available for use, modification, and sharing.
 **祝学习愉快！ | Happy learning!** 🚀
 
 **从向量到神经流形的旅程，从现在开始！ | Begin your journey from vectors to neural manifolds today!**
+
+---
+
+## 📋 Available Resources | 可用资源
+
+### 中文讲义 | Chinese Lecture
+- **File**: `20260121从向量到神经流形讲义.ipynb`
+- **Colab Link**: https://colab.research.google.com/github/Vincent-B-Faust/From-Vectors-to-Neural-Manifolds/blob/main/20260121%E4%BB%8E%E5%90%91%E9%87%8F%E5%88%B0%E7%A5%9E%E7%BB%8F%E6%B5%81%E5%BD%A2%E8%AE%B2%E4%B9%89.ipynb
+
+### English Lecture
+- **File**: `From-Vectors-to-Neural-Manifolds-English.ipynb`
+- **Colab Link**: https://colab.research.google.com/github/Vincent-B-Faust/From-Vectors-to-Neural-Manifolds/blob/main/From-Vectors-to-Neural-Manifolds-English.ipynb
 
 ---
 
