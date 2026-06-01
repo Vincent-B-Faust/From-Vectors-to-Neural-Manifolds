@@ -2,6 +2,26 @@
 
 ---
 
+## 📚 开场白 | Opening Remarks
+
+### 🎓 为什么要学这门课？
+
+![My Hobby: Extrapolating](https://imgs.xkcd.com/comics/extrapolating.png)
+
+*漫画出处：[xkcd #1725](https://xkcd.com/1725/)*
+
+这门讲义的目标就是让你成为**不过度外推的神经科学家**。我们不仅要用数据拟合曲线，还要理解数据背后的**几何结构**。
+
+### 🤔 从数据到流形
+
+![Curve-Fitting Methods](https://imgs.xkcd.com/comics/curve_fitting.png)
+
+*漫画出处：[xkcd #2048](https://xkcd.com/2048/)*
+
+大脑的神经活动就像这些散点图——看起来杂乱无章，但其实隐藏着低维的结构（流形）。我们的任务是学会"看穿"这些数据，找到真正的几何形状。
+
+---
+
 ## 中文版 | Chinese Version
 
 ### 📖 讲义介绍
@@ -255,3 +275,10 @@ This lecture is freely available for use, modification, and sharing.
 **祝学习愉快！ | Happy learning!** 🚀
 
 **从向量到神经流形的旅程，从现在开始！ | Begin your journey from vectors to neural manifolds today!**
+
+---
+
+## Credits | 致谢
+
+- XKCD Comics: [#1725 Extrapolating](https://xkcd.com/1725/) and [#2048 Curve Fitting](https://xkcd.com/2048/)
+- These comics perfectly illustrate why understanding underlying geometric structures (manifolds) is more important than blindly fitting curves to data!
